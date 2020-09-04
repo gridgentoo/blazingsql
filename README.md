@@ -1,3 +1,5 @@
+SQL-движок BlazingSQL, использующего GPU для ускорения обработки данных. BlazingSQL позиционируется как движок для анализа и обработки больших наборов данных, сравнимый по своим задачам с Apache Spark.
+
 > A lightweight, GPU accelerated, SQL engine built on the [RAPIDS.ai](https://rapids.ai) ecosystem.
 
 <a href='https://app.blazingsql.com/jupyter/user-redirect/lab/workspaces/auto-b/tree/Welcome_to_BlazingSQL_Notebooks/welcome.ipynb'><img src="https://github.com/BlazingDB/blazingsql/blob/roaramburu-readme-update/img/bsql_rapids.PNG"/></a>
